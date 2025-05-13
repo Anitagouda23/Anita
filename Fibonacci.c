@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main()
  {
-  int i, n,t1,t2,t3;
+  int i, n,t1=0,t2=1,t3;
   printf("enter the lenght of fibonacci sequence to be generated:");
   scanf("%d",&n);
   printf("Fibonacci sequence is:%d,%d",t1,t2);
